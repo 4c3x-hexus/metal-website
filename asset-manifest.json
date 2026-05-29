@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/metal-website/static/css/main.7d628fca.css",
+    "main.js": "/metal-website/static/js/main.6805c47c.js",
+    "static/js/453.6b93f5a9.chunk.js": "/metal-website/static/js/453.6b93f5a9.chunk.js",
+    "static/media/EVH 5150 III.png": "/metal-website/static/media/EVH 5150 III.566fbf95e8aa8e5aebe7.png",
+    "static/media/hero-bg.png": "/metal-website/static/media/hero-bg.e8dc937dd831ef0a4497.png",
+    "static/media/peavey.png": "/metal-website/static/media/peavey.18128e9006ceebd20d92.png",
+    "static/media/rec-DP-fnt-2000x2000__25266.png": "/metal-website/static/media/rec-DP-fnt-2000x2000__25266.7d2855ddfe7c3763be11.png",
+    "static/media/20211203091652-A1.8AAN20-20FRONT20HORIZONTAL.png": "/metal-website/static/media/20211203091652-A1.8AAN20-20FRONT20HORIZONTAL.895757072c91ed754381.png",
+    "static/media/Synyster Custom-S.Gloss Black with Silver Pinstripes.01.avif": "/metal-website/static/media/Synyster Custom-S.Gloss Black with Silver Pinstripes.01.00dede06284510d72f87.avif",
+    "static/media/John-Petrucci-5_1400x1050-removebg-preview.png": "/metal-website/static/media/John-Petrucci-5_1400x1050-removebg-preview.8427663b1b5e4901e7bc.png",
+    "static/media/Focusrite Scarlett 2i2.webp": "/metal-website/static/media/Focusrite Scarlett 2i2.edf3b0e18e27f079e387.webp",
+    "static/media/guitar picks.png": "/metal-website/static/media/guitar picks.7a72361edbb7900110de.png",
+    "static/media/Audient iD14 MKII.webp": "/metal-website/static/media/Audient iD14 MKII.2afa02cc04ec49e09ccf.webp",
+    "static/media/GettyImages-84888205-removebg-preview.png": "/metal-website/static/media/GettyImages-84888205-removebg-preview.46d6fd8db516901de43a.png",
+    "static/media/dimebag.png": "/metal-website/static/media/dimebag.51bc5ba0415006f4d0fc.png",
+    "static/media/ps_main_eg_x_ironlabel_en.png": "/metal-website/static/media/ps_main_eg_x_ironlabel_en.b352cc3186d926f1546d.png",
+    "static/media/ps_main_eg_rg_standard_en.png": "/metal-website/static/media/ps_main_eg_rg_standard_en.f538a48ec70e817fc52f.png",
+    "static/media/FIRSTFRET_TonyIommi_01.webp": "/metal-website/static/media/FIRSTFRET_TonyIommi_01.4e1d845b526c3f41bdd4.webp",
+    "static/media/original.webp": "/metal-website/static/media/original.efd8deb2f68a0bd9819e.webp",
+    "static/media/snakebyte.webp": "/metal-website/static/media/snakebyte.2a0d1ea9a43f9a50169e.webp",
+    "static/media/Universal Audio Apollo Solo.webp": "/metal-website/static/media/Universal Audio Apollo Solo.5dfe64c2ab83e4982572.webp",
+    "static/media/guitar strap.webp": "/metal-website/static/media/guitar strap.5e0310c548f2b769bc3e.webp",
+    "static/media/guitar cable.png": "/metal-website/static/media/guitar cable.0193dc19d72345f2ffdf.png",
+    "static/media/SE_Chleo_Electric_Guitar_Charcoal_Purple_Burst.webp": "/metal-website/static/media/SE_Chleo_Electric_Guitar_Charcoal_Purple_Burst.38847826b5e82dbd0611.webp",
+    "static/media/gothic-love-tattoo-love-chrome-ornament-png.webp": "/metal-website/static/media/gothic-love-tattoo-love-chrome-ornament-png.2dbedc92b73d2b026571.webp",
+    "index.html": "/metal-website/index.html",
+    "main.7d628fca.css.map": "/metal-website/static/css/main.7d628fca.css.map",
+    "main.6805c47c.js.map": "/metal-website/static/js/main.6805c47c.js.map",
+    "453.6b93f5a9.chunk.js.map": "/metal-website/static/js/453.6b93f5a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d628fca.css",
+    "static/js/main.6805c47c.js"
+  ]
+}
