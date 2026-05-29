@@ -34,12 +34,3 @@ To run this project locally, follow these steps:
 4. **Run the project locally:**
    ```bash
    npm start
-
-### 🚀 Push the Fix to GitHub
-
-Now, let's make sure GitHub receives this updated version. Run these three commands in your terminal:
-
-```bash
-git add README.md
-git commit -m "docs: clean and overwrite default react readme template"
-git push
