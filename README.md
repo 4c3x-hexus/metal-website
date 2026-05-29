@@ -22,3 +22,24 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/4c3x-hexus/metal-website.git](https://github.com/4c3x-hexus/metal-website.git)
+
+2. **Navigate into the project directory:**
+   c
+   cd metalsstring
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+
+4. **Run the project locally:**
+   ```bash
+   npm start
+
+### 🚀 Push the Fix to GitHub
+
+Now, let's make sure GitHub receives this updated version. Run these three commands in your terminal:
+
+```bash
+git add README.md
+git commit -m "docs: clean and overwrite default react readme template"
+git push
