@@ -3,7 +3,7 @@
 A sleek, responsive frontend website dedicated to all things heavy metal. 
 
 ## 🔗 Live Demo
-Check out the live website here: [(https://4c3x-hexus.github.io/metal-website/)]
+Check out the live website here: https://4c3x-hexus.github.io/metal-website/
 
 ---
 
@@ -17,20 +17,23 @@ This website serves as a digital hub for metalheads. It features:
 
 ## ⚙️ Setup Instructions
 
-To run this project locally, follow these steps:
+To run this project locally, type these commands into your terminal:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/4c3x-hexus/metal-website.git](https://github.com/4c3x-hexus/metal-website.git)
+1. Clone the repository:
+   git clone https://github.com/4c3x-hexus/metal-website.git
 
-2. **Navigate into the project directory:**
-   ```bash
-   cd metalsstring
+2. Navigate into the project directory:
+   cd metalsstrings
 
-3. **Install dependencies:**
-   ```bash
+3. Install dependencies:
    npm install
 
-4. **Run the project locally:**
-   ```bash
+4. Run the project locally:
    npm start
+
+---
+
+## 📸 Screenshots of the UI
+
+### Desktop View
+![Website Screenshot](screenshot1.png)
