@@ -3,7 +3,7 @@
 A sleek, responsive frontend website dedicated to all things heavy metal. 
 
 ## 🔗 Live Demo
-Check out the live website here: [Click here to view the live site](https://4c3x-hexus.github.io/metal-website/)
+Check out the live website here: [(https://4c3x-hexus.github.io/metal-website/)]
 
 ---
 
@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
    git clone [https://github.com/4c3x-hexus/metal-website.git](https://github.com/4c3x-hexus/metal-website.git)
 
 2. **Navigate into the project directory:**
-   c
+   ```bash
    cd metalsstring
 
 3. **Install dependencies:**
