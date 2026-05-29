@@ -37,3 +37,9 @@ To run this project locally, type these commands into your terminal:
 
 ### Desktop View
 ![Website Screenshot](screenshot1.png)
+
+![Website Screenshot](screenshot2.png)
+
+![Website Screenshot](screenshot3.png)
+
+![Website Screenshot](screenshot4.png)
